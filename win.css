@@ -1,0 +1,43 @@
+body, select, input {
+  font-family: 'Helvetica', 'MeiryoKePGothic';
+}
+
+pre, code {
+  font-family: 'Monaco';
+}
+
+@font-face {
+  font-family: "Verdana";
+  src: local("Helvetica");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: local("Helvetica");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: local("MeiryoKePGothic");
+  unicode-range: U+0080-FFFF;
+}
+
+@font-face {
+  font-family: "sans-serif";
+  src: local("Helvetica");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "sans-serif";
+  src: local("MeiryoKePGothic");
+  unicode-range: U+0080-FFFF;
+}
+
+@font-face {
+  font-family: "monospace";
+  src: local("Monaco");
+  unicode-range: U+0000-007F;
+}
