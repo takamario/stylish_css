@@ -1,5 +1,5 @@
 body, select, input {
-  font-family: 'Helvetica', 'MeiryoKePGothic';
+  font-family: 'Helvetica', 'MeiryoKe_PGothic';
 }
 
 pre, code {
@@ -20,7 +20,7 @@ pre, code {
 
 @font-face {
   font-family: "Arial";
-  src: local("MeiryoKePGothic");
+  src: local("MeiryoKe_PGothic");
   unicode-range: U+0080-FFFF;
 }
 
@@ -32,7 +32,7 @@ pre, code {
 
 @font-face {
   font-family: "sans-serif";
-  src: local("MeiryoKePGothic");
+  src: local("MeiryoKe_PGothic");
   unicode-range: U+0080-FFFF;
 }
 
